@@ -20,7 +20,7 @@ internal class Program
         {
             var student = new Student(Guid.NewGuid().ToString().Substring(0, 5), i % 100);
             {
-                Group = groups[i % 9];
+                student.Group = groups[i % 9];
             }
 
             students.Add(student);
