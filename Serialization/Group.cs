@@ -26,9 +26,13 @@ public class Group
 
     public  void SetPrivet(int i)
     {
-        
+        privateint = i;
     }
-    
+
+    public int GetPrivet()
+    {
+        return privateint;
+    }
     public override string ToString()
     {
         return Name;

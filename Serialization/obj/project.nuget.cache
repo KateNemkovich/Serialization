@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "EIApGfniaejrMlfCMXfkEojlLvEr5yX6RZuVs/+Ak3NoGx7WBUAb/grwDvdRMRqo3OJXYnMEPrGS5BXknfiDsA==",
+  "dgSpecHash": "lWRPlDyG1dYKZ3hQT8CIT8pxvmIMloU3/mGR75DMGVKSiS4N7Nsr8xNvK9Js+SOgs6cvktBDtWxzZiu1BRI7iA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cate\\Desktop\\Прога\\Serialization\\Serialization\\Serialization.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Cate\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512",
+    "C:\\Users\\Cate\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
   "logs": []
 }
